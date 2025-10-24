@@ -5,3 +5,4 @@
 | # | Problem | Difficulty | Category | Solution |
 |:---:|:---|:---:|:---|:---:|
 | 1 | Two Sum | Easy | Array, Hash Table | [Link](./problems/0001-two-sum/) |
+| 217 | Contains Duplicate | Easy | Array, Hash Table | [Link](./problems/0217-contains-duplicate) |
