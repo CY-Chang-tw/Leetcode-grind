@@ -8,13 +8,13 @@
 
 ## Problem Description
 
-> [題目給一個 array ，要判斷陣列中是否有重複值，如果有重複：return true，反之: return false]
->
-> **Example 1**
+題目給一個 array ，要判斷陣列中是否有重複值，如果有重複：return true，反之: return false
+
+**Example 1**
 > **Input:** `nums = [1,2,3,1]`
 > **Output:** `true`
 >
-> **Example 2**
+**Example 2**
 > **Input:** `nums = [1,2,3,4]`
 > **Output:** `false`
 
