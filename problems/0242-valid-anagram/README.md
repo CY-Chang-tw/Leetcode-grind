@@ -29,7 +29,7 @@
 
 > - 時間複雜度： O(n^2)
 
-### Follow up (Hash with unordered_set)
+### Follow up (Hash with unordered_map)
 
 1. 改善時間到線性，以一個 for loop 使用 unordered_map 來記下 s 出現過的 item，其中 key(hash->first) 為 item，value(hash->second) 為出現次數
 2. 使用 for loop 迭代 t，將出現過的 item 次數減去 hash->second(value)
